@@ -11,7 +11,7 @@ spec:
     - element: xsalgovic-ambulance-wl-list # element, ktorý bude vložený na stránku
       # pri navigácii na zoznam čakajúcich
       path: xsalgovic-ambulance-wl # cesta, ktora sa zobrazi v address bare v prehliadaci, ked bude tento mikroFE aktívny
-      title: Zoznam čakajúcich xsalgovic # názov mikro aplikácie
+      title: Zoznam čakajúcich pacientov # názov mikro aplikácie
       details: Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii
   preload: false # určuje, či má byť web komponent načítaný spolu s hlavnou stránkou
   proxy:
