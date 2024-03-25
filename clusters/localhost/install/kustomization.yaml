@@ -10,6 +10,11 @@ commonLabels:
 
 resources:
   - ../../../apps/xsalgovic-ambulance-ufe
+  - ../../../apps/xsalgovic-ambulance-webapi
 
 components:
   - ../../../components/version-developers
+  - https://github.com/Salgac/wac-ambulance-webapi//deployments/kustomize/components/mongodb
+
+patches:
+  - path: patches/ambulance-webapi.service.yaml
