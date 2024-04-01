@@ -12,7 +12,7 @@ spec:
       # pri navigácii na zoznam čakajúcich
       path: xsalgovic-ambulance-wl # cesta, ktora sa zobrazi v address bare v prehliadaci, ked bude tento mikroFE aktívny
       title: Zoznam čakajúcich pacientov # názov mikro aplikácie
-      details: Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii
+      details: Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii - xsalgovic
       attributes:
         - name: api-base
           value: /xsalgovic-api
