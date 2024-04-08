@@ -9,6 +9,7 @@ commonLabels:
 
 resources:
  - ../../../apps/xsalgovic-ambulance-ufe
+ - ../../../apps/xsalgovic-ambulance-webapi
 
 
 components:
