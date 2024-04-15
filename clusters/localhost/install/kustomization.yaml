@@ -11,6 +11,7 @@ commonLabels:
 resources:
   - ../../../apps/xsalgovic-ambulance-ufe
   - ../../../apps/xsalgovic-ambulance-webapi
+  - ../../../apps/http-echo
 
 components:
   - ../../../components/version-developers
