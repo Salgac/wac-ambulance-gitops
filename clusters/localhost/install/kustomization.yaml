@@ -12,6 +12,7 @@ resources:
   - ../../../apps/xsalgovic-ambulance-ufe
   - ../../../apps/xsalgovic-ambulance-webapi
   - ../../../apps/http-echo
+  - ../../../apps/observability-webc
 
 components:
   - ../../../components/version-developers
